@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a0cbfeb7-3da8-40ff-8cbe-331738fa444c" />
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/a0cbfeb7-3da8-40ff-8cbe-331738fa444c" />
 </p>  
 
 # Password-Resetting-and-Account-Unlocking-in-Active-Directory
