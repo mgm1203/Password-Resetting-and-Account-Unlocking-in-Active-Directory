@@ -17,6 +17,7 @@ This project demonstrates common IT Help Desk tasks performed using Microsoft Ac
 * Remote Desktop Protocol (RDP)
 * Microsoft Azure Virtual Machines
 * Azure Virtual Network
+* Command Prompt 
 
 # Operating Systems Used
 * Windows Server — Active Directory Domain Controller
@@ -28,11 +29,8 @@ This project demonstrates common IT Help Desk tasks performed using Microsoft Ac
 3. Simulate a locked user account.
 4. Unlock the user's account using Active Directory Users and Computers.
 5. Reset the user's password using Active Directory Users and Computers.
-6. Simulate a disabled user account.
-7. Disable the user's account in Active Directory.
-8. Verify that the disabled account can no longer authenticate.
-9. Re-enable the account and verify that the user can log in again.
-10. Document each Help Desk scenario with screenshots.
+6. Disable the user's account in Active Directory.
+7. Re-enable the account and verify that the user can log in again.
 
 # Deployment and Configuration Steps
 
