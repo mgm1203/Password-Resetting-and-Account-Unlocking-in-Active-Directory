@@ -38,7 +38,7 @@ This project demonstrates common IT Help Desk tasks performed using Microsoft Ac
 <img width="1920" height="1080" alt="20 246 70 236 - Remote Desktop Connection 8_13_2026 3_25_27 AM" src="https://github.com/user-attachments/assets/a314d61b-2f3c-4be9-9894-cd398ef79714" />
 </p> 
 
-The first step in our project is to choose the employee located in our Domain Controller that we are going to be helping. In this case shown above, we will be choosing (an employee) or account named (baf.siv).
+The first step in our project is to choose the employee located in our Domain Controller that we are going to be helping. In this case shown above, we will be choosing (an employee) or account named (baf.siv). You will find this under Active Directory Users and Computers.
 
 <p align="center">
 <img width="608" height="695" alt="Remote Desktop Connection 8_13_2026 3_38_15 AM" src="https://github.com/user-attachments/assets/ee6e09a3-feb2-421c-bc8c-6de71c37cec1" />
