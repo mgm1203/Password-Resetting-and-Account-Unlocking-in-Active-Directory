@@ -85,6 +85,12 @@ Furthermore, under Account, you will now see a notification stating the account 
 
 Next, similar to the previous step we will use the same user to reset their password in case they forgot it and can no longer login. You will return once again to the Active Directory and find the user, instead of clicking on their account you will right-click on the user. There will be a visible option that we will use to reset the user's password. 
 
+<p align="center">
+<img width="1103" height="812" alt="20 246 70 236 - Remote Desktop Connection 8_13_2026 4_39_18 AM" src="https://github.com/user-attachments/assets/02bc4a10-0a4e-487d-b53a-a13a45c77fb9" />
+</p> 
+
+This will then prompt you to change the password of the user and also unlock the account once again if it was locked out previously. After applying the new password, it will automatically reset and allow (baf.siv) to login using their new password. 
+
 
 
 
