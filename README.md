@@ -87,7 +87,40 @@ Next, similar to the previous step we will use the same user to reset their pass
 <img width="1103" height="812" alt="20 246 70 236 - Remote Desktop Connection 8_13_2026 4_39_18 AM" src="https://github.com/user-attachments/assets/02bc4a10-0a4e-487d-b53a-a13a45c77fb9" />
 </p> 
 
-This will then prompt you to change the password of the user and also unlock the account once again if it was locked out previously. After applying the new password, it will automatically reset and allow (baf.siv) to login using their new password. 
+This will then prompt you to change the password of the user and also unlock the account once again if it was locked out previously. After applying the new password, it will automatically reset and allow (baf.siv) to login using their new password.
+
+
+<p align="center">
+<img width="882" height="832" alt="20 246 70 236 - Remote Desktop Connection 8_13_2026 4_59_58 AM" src="https://github.com/user-attachments/assets/f3dd9970-2a02-436c-858a-fe70f2aa205b" />
+</p> 
+
+Next, we will be using the same account and simulate what it would look like to disable the account. Like the previous step when resetting the password of the user, we will navigate to the Active Directory Users and Computers and find the user (baf.siv). We will right-click the user and find the Disable Account option.   
+
+<p align="center">
+<img width="896" height="934" alt="20 246 70 236 - Remote Desktop Connection 8_13_2026 5_00_07 AM" src="https://github.com/user-attachments/assets/f31e7410-9c4b-489e-bf14-0fcb701e559b" />
+</p> 
+
+Furthermore, once we accept to disable the account, Active Directory Domain Services notification will show on your screen. 
+
+##### Note: While Disabling accounts may not happen often, usually this will occur when someone has quit their position or their account has been compromised.
+
+<p align="center">
+<img width="1123" height="876" alt="20 246 70 236 - Remote Desktop Connection 8_13_2026 5_00_40 AM" src="https://github.com/user-attachments/assets/32cd8c07-d3bb-4342-9474-80e244ffeaf0" />
+</p> 
+
+Finally, the last step in this project will show how we will reenable an account that was previously disabled. Again, using our knowledge of the previous segments we will return to Active Directory and search for the user's name in the Domain server. Right-click on the account and you will see a similar option, instead it will give you the option to, "Enable Account."
+
+<p align="center">
+<img width="1120" height="873" alt="20 246 70 236 - Remote Desktop Connection 8_13_2026 5_00_48 AM" src="https://github.com/user-attachments/assets/fd5111e4-c4d4-4fbf-83ad-b9591771a703" />
+</p> 
+
+Active Directory Domain Services will then show a notification confirming the user (baf.siv) has been enabled. Following this, you want would want to always verify with the end user can log in again!
+
+# Overall Learning Outcome
+This project demonstrated practical Help Desk account-management skills by simulating common user support scenarios. The project provided hands-on experience with password resets, account lockouts, account disabling, account re-enabling, and user authentication within an Active Directory domain environment.
+
+
+
 
 
 
